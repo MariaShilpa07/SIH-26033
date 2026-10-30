@@ -53,6 +53,9 @@ Transparent Digital QA Ledger: Employs mobile quality checklists and IoT-linked 
 
 ## Technical Approach
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/676b3592-488c-4c44-a0d7-b8efcc8146e6" />
+
+
 * **Frontend:** React Native/Flutter mobile apps for farmers/buyers; React.js admin web dashboard.
 * **Backend:** Python FastAPI and Node.js managing RESTful microservices and API gateways.
 * **AI & Optimization Engine:** PyTorch and LightGBM for demand forecasting; Google OR-Tools for route optimization (CVRP).
